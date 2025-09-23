@@ -1,4 +1,3 @@
-# CascadingTileInferenceAlgorithm
 ## Requirements
 Python 3.10  
 Pytorch 2.4.1+cu118
