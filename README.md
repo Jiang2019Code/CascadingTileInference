@@ -1,7 +1,7 @@
 ## Requirements
 Python 3.10  
-Pytorch 2.4.1+cu118
-GDAL 3.7 Download URL (https://github.com/cgohlke/geospatial-wheels/releases)  
+Pytorch 2.4.1+cu118  
+GDAL 3.7 Download URL (https://github.com/cgohlke/geospatial-wheels/releases)    
 The easiest way to install this code is to create a Python virtual environment and to install dependencies using: pip install -r requirements.txt
 
 ## Dataset
