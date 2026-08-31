@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19248725.svg)](https://doi.org/10.5281/zenodo.19248725)
 
 ## Python scripts for the manuscript
-##Jiang, D.; Zhang, L.; Chen, P.; Luo, R.; Wang, Z.; Lu, P. Intelligent identification of silo-cave traditional residences in the Chinese Loess Plateau based on deep learning. Journal of Archaeological Science 2026, 192, 106625, doi:https://doi.org/10.1016/j.jas.2026.106625
+## Jiang, D.; Zhang, L.; Chen, P.; Luo, R.; Wang, Z.; Lu, P. Intelligent identification of silo-cave traditional residences in the Chinese Loess Plateau based on deep learning. Journal of Archaeological Science 2026, 192, 106625, doi:https://doi.org/10.1016/j.jas.2026.106625
 ## The training data must be downloaded from the Zenodo website(https://doi.org/10.5281/zenodo.19248725).
 ## The repository is organised into the following main directories:
 
